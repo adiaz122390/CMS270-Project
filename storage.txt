@@ -1,0 +1,9 @@
+L 1 red 12
+L 1 green 12
+L 0 blue 12
+S 1 red 12 Hermes
+S 0 green 12 Hermes
+S 1 blue 12 Gucchi
+B 1 red 12 Hermes Leather
+B 1 green 12 Gucchi Cotton
+B 1 blue 12 Gucchi Polyester
